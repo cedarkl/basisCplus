@@ -1,7 +1,6 @@
 #include <iostream> // thu vien ho tro viec nhap xuat
 using namespace std;
 
-
 int main() { // ham chinh dong vai tro nhu bo nao - noi xu ly trung tam, xu ly cac dong lenh
 //    int a; // khai bao bien so nguyen chua gia tri la so nguyen
 //    float b = 4.5; // khoi tao bien so thuc b chua gia tri la so thuc
